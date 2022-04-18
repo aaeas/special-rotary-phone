@@ -77,7 +77,6 @@ weather.fetchWeather("Denver");
 
 //     }
 
-
 // }
 // // if you need to make a second API call WITH DATA from the first API call, be careful WHERE you make that call!!!
 
